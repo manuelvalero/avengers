@@ -1,4 +1,4 @@
-# Miembros
+# Miembros Revisados
 
 * Black panther
 * Black Widow
@@ -17,3 +17,4 @@
 * Vision
 * Wasp
 * Antman
+* Pocajontas
